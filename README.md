@@ -32,7 +32,7 @@ python fetch_spacex.py
 ```
 python fetch_hubble.py
 ```
-Заргузка скачанных файлов в Instagram
+Загрузка ранее скачанных файлов в Instagram
 ```
 python space_instagram.py
 ```
