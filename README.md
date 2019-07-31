@@ -22,6 +22,22 @@ INSTAGRAM_DIR=instagram
 INSTAGRAM_LOGIN=_your instagram username_
 INSTAGRAM_PASSWORD=_your instagram password_
 ```
+### Пример запуска
+
+Скачивание последних изображений из SpaceX
+```
+python fetch_spacex.py
+```
+Скачивание изображений Hubble из коллекции, которая указана в файле ```.env```
+```
+python fetch_hubble.py
+```
+Заргузка скачанных файлов в Instagram
+```
+python space_instagram.py
+```
+
+
 ### Цель проекта
 
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков dvmn.org.
